@@ -1,0 +1,1 @@
+export default function Placeholder({title}){return <><div className="pageTitle"><h1>{title}</h1><p>Estrutura pronta para o próximo marco</p></div><div className="panel"><h2>Módulo preparado</h2><p>Esta área será evoluída sobre a nova arquitetura modular do v3.</p></div></>}
